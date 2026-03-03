@@ -68,7 +68,13 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-
+<img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" title="Python"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" title="Figma"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" title="Adobe Photoshop"/>
+<img width="12"/>
+<img src="https://skillicons.dev/icons?i=ai" height="40" alt="Illustrator" title="Adobe Illustrator"/>
 </div>
 
 ---
