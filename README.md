@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mahreen Choudhry</h1>
 <h1 align="center">
 Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" height="35" />, I'm Mahreen Choudhry
 </h1>
@@ -18,7 +17,7 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" height="25" /> BSCS Student at Virtual University of Pakistan
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25" height="25" /> Currently working on  
-  **Cyber Vault – Secure Web Application for Encrypted Data Storage**
+  **Cyber Vault**
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> Passionate about building scalable and user-focused applications
 
