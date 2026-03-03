@@ -45,14 +45,6 @@ MERN Stack Developer | Software Engineer 💻
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mahreen-Choudhry-3107&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -61,11 +53,7 @@ MERN Stack Developer | Software Engineer 💻
 
 ---
 
-## 🐍 Contribution Snake Animation
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Mahreen-Choudhry-3107/Mahreen-Choudhry-3107/output/github-contribution-grid-snake.svg" />
-</p>
 
 <!--
 **Mahreen-Choudhry-3107/Mahreen-Choudhry-3107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
