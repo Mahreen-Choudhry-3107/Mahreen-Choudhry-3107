@@ -9,13 +9,13 @@ Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluen
 
 ---
 
-- - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> Passionate about building scalable and user-focused applications
+- <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25" height="25" /> Passionate about building scalable and user-focused applications
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="25" height="25" />  Currently pursuing a BSCS degree at Virtual Universiy of Pakistan, to further my knowledge and skills in computer science.
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="25" height="25" /> Currently working on **Cyber Vault**
 - 🌱 I’m currently learning **ASP.NET , Angular**
-- - 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
+-  👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 - 💬 Ask me about **.NET, C++, C#, MERN Stack**
 - 📫 How to reach me **mahreen.ch.3107@gmail.com**
 
