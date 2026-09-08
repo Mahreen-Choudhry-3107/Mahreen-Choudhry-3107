@@ -20,9 +20,9 @@
 
 ## 👩‍💻&nbsp; About Me
 
-<table align="center" width="100%">
-<tr>
-<td width="65%" valign="top">
+<div align="center">
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="130"/>
+</div>
 
 &nbsp;&nbsp;🚀&nbsp; Passionate about building **scalable, user-focused applications**<br/><br/>
 &nbsp;&nbsp;🎓&nbsp; Pursuing a **BSCS degree** at Virtual University of Pakistan<br/><br/>
@@ -32,12 +32,7 @@
 &nbsp;&nbsp;💬&nbsp; Ask me about **.NET, C++, C#, MERN Stack**<br/><br/>
 &nbsp;&nbsp;📫&nbsp; **mahreen.ch.3107@gmail.com**
 
-</td>
-<td width="35%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="130"/>
-</td>
-</tr>
-</table>
+<br/><br/><br/><br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=103b42" width="100%"/>
 
@@ -45,6 +40,9 @@
 
 <div align="center">
 
+<a href="https://mahreen-ch-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-103b42?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/mahreen-choudhry-71aab237a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-103b42?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -72,16 +70,10 @@
 ## 📊&nbsp; GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mahreen-Choudhry-3107&show_icons=true&hide_border=true&theme=transparent&title_color=103b42&icon_color=103b42&text_color=333333&border_radius=15" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Choudhry-3107&layout=compact&hide_border=true&theme=transparent&title_color=103b42&text_color=333333&border_radius=15" height="180"/>
-</p>
+
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahreen-Choudhry-3107&bg_color=00000000&color=103b42&line=103b42&point=1c5f68&area=true&area_color=103b42&hide_border=true" width="95%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahreen-Choudhry-3107&hide_border=true&background=00000000&ring=103b42&fire=103b42&currStreakLabel=103b42&sideLabels=103b42&border_radius=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahreen-Choudhry-3107&hide_border=true&background=00000000&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=2dd4bf&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border_radius=15" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c5f68,100:103b42&height=100&section=footer" width="100%"/>
