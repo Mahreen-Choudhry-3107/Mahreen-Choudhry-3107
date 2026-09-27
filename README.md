@@ -67,16 +67,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=103b42" width="100%"/>
 
-## 📊&nbsp; GitHub Analytics
-
-<p align="center">
-
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahreen-Choudhry-3107&hide_border=true&background=00000000&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf&sideLabels=2dd4bf&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border_radius=15" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c5f68,100:103b42&height=100&section=footer" width="100%"/>
 
 <div align="center">
 <sub>⭐ Thanks for visiting my profile — feel free to connect and collaborate!</sub>
