@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=103B42&center=true&vCenter=true&width=600&lines=Building+scalable+full+stack+applications;Exploring+ASP.NET+%26+Angular;Currently+working+on+Cyber+Vault;Always+learning%2C+always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=27B5C4&center=true&vCenter=true&width=600&lines=Building+scalable+full+stack+applications;Exploring+ASP.NET+%26+Angular;Currently+working+on+Cyber+Vault;Always+learning%2C+always+building." />
 </a>
 
 <br/><br/>
@@ -67,6 +67,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=103b42" width="100%"/>
 
+## 📊&nbsp; GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahreen-Choudhry-3107&theme=default&hide_border=true&background=FFFFFF00&stroke=2dd4bf33&ring=2dd4bf&fire=5eead4&currStreakLabel=5eead4&currStreakNum=ccfbf1&sideLabels=99f6e4&sideNums=ccfbf1&dates=5eead4" height="180" alt="streak stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mahreen-Choudhry-3107&show_icons=true&hide_border=true&bg_color=0,103b42,1c5f68&title_color=ffffff&icon_color=ffffff&text_color=ffffff&count_private=true&include_all_commits=true" height="175" alt="github stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahreen-Choudhry-3107&layout=compact&hide_border=true&bg_color=0,103b42,1c5f68&title_color=ffffff&text_color=ffffff&langs_count=8" height="175" alt="top languages" />
+
+<br/><br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=103b42" width="100%"/>
 
 <div align="center">
 <sub>⭐ Thanks for visiting my profile — feel free to connect and collaborate!</sub>
